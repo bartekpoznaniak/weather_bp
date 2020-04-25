@@ -1,0 +1,12 @@
+{
+  "temperature": 31.1,
+  "city": "Poznan",
+  "request": {
+    "type": "abcd",
+    "query": "PoznanWLKP"
+  },
+  "location": {
+    "name": "Poznan",
+    "country": "Poland"
+  }
+}
